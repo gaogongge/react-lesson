@@ -4,6 +4,7 @@ import ComB from "./components/Comp-B"
 import ComEvent from "./components/Com-event-on";
 import MySelf from "./components/Com-myself"
 import Com33 from "./components/Com33"
+import Com41 from "./components/Com41"
 class app extends React.Component{
     render(){
         return (
@@ -16,6 +17,8 @@ class app extends React.Component{
                 <ComEvent></ComEvent>
                 <MySelf></MySelf>
                 <Com33/>
+                <Com41/>
+
             </div>
         )
     }

@@ -1,0 +1,6 @@
+## React中使用ref 操作DOM
+-   给DOM或者组件添加 ref 属性，通过this.refs.key使用DOM或者组件、(不再推荐使用)
+-   在构造中，定义一个ref
+-   在jsx中把定义的ref 绑定到DOM或者组件
+
+
