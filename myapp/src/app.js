@@ -8,8 +8,8 @@ class app extends React.Component{
             className="c1"
             >
                 this is my frist react Component
-                <ComA></ComA>
-                <ComB></ComB>
+                <ComA value={'给ComA的参数'}></ComA>
+                <ComB vb={'给ComB的参数'}></ComB>
             </div>
         )
     }
