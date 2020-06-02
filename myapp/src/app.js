@@ -12,6 +12,8 @@ class app extends React.Component{
             <Router></Router>
         )
     }
+}
+export default app
     // render(){
     //     return (
     //         <div
@@ -27,5 +29,3 @@ class app extends React.Component{
     //         </div>
     //     )
     // }
-}
-export default app
